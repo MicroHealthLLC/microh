@@ -1,0 +1,9 @@
+[30-Dec-2013 05:04:46 America/Chicago] PHP Fatal error:  Call to a member function getPublisherHTML() on a non-object in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 712
+[30-Dec-2013 05:07:10 America/Chicago] PHP Fatal error:  Call to a member function getPublisherHTML() on a non-object in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 734
+[30-Dec-2013 05:07:45 America/Chicago] PHP Fatal error:  Class 'AYAH' not found in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 83
+[30-Dec-2013 05:34:54 America/Chicago] PHP Fatal error:  Class 'AYAH' not found in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 4
+[30-Dec-2013 05:35:08 America/Chicago] PHP Fatal error:  Call to a member function getPublisherHTML() on a non-object in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 735
+[30-Dec-2013 05:35:38 America/Chicago] PHP Fatal error:  Call to a member function getPublisherHTML() on a non-object in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 713
+[30-Dec-2013 05:43:29 America/Chicago] PHP Fatal error:  Call to a member function getPublisherHTML() on a non-object in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 742
+[30-Dec-2013 05:44:11 America/Chicago] PHP Fatal error:  Call to a member function getPublisherHTML() on a non-object in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 742
+[30-Dec-2013 05:44:51 America/Chicago] PHP Fatal error:  Call to a member function getPublisherHTML() on a non-object in /home2/beekl/bingoliner.co/yr/includes/functions-html.php on line 743
